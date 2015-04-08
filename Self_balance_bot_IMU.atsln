@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "Self_balance_bot_IMU", "Self_balance_bot_IMU\Self_balance_bot_IMU.cproj", "{3D8DF7D6-EF1A-4C13-BD52-D92963304D32}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8DF7D6-EF1A-4C13-BD52-D92963304D32}.Debug|AVR.ActiveCfg = Debug|AVR
+		{3D8DF7D6-EF1A-4C13-BD52-D92963304D32}.Debug|AVR.Build.0 = Debug|AVR
+		{3D8DF7D6-EF1A-4C13-BD52-D92963304D32}.Release|AVR.ActiveCfg = Release|AVR
+		{3D8DF7D6-EF1A-4C13-BD52-D92963304D32}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
