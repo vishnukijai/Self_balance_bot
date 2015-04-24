@@ -2,7 +2,7 @@
  * Self_balance_bot_IMU.c
  *
  * Created: 31-Mar-15 7:08:48 PM
- *  Author: VishnuTS
+ *  Author: Davide Gironi
  */ 
 #include <stdlib.h>
 #include <avr/io.h>
